@@ -4,10 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nwels&color=111111&style=flat)
 
-<br>
-
-> thoughtful frontend craftsmanship with an Apple-inspired sense of space and polish
-
 </div>
 
 ---
