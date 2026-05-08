@@ -3,6 +3,7 @@
 <h1>nwel's profile</h1>
 <img src="https://komarev.com/ghpvc/?username=nwels&color=74A12E&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" /> 
 
+A Science Computer student. I code mostly for fun. Website UI designer, Discord Bot developer & Minecraft Server Development.
 <div align="left">
 
 ## Skills 
