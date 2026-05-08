@@ -7,7 +7,7 @@
 <br>
 
 `A Science Computer student. I code mostly for fun. Website UI designer, Discord Bot developer & Minecraft Server Development.`
-
+<br>
 <div align="left">
 
 ## Skills 
