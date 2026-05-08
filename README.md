@@ -3,13 +3,8 @@
 <h1>nwel's profile</h1>
 <img src="https://komarev.com/ghpvc/?username=nwels&color=74A12E&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" /> 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nwels&query=$.public_repos&label=REPOSITORIES&color=74A12E&style=for-the-badge" alt="Repositories" /> 
-<br>
 
-`A Science Computer student. I code mostly for fun.`
-
-`Website UI designer, Discord Bot developer & Minecraft Server Development.`
-
-<br>
+`A Science Computer student. I code mostly for fun. Website UI designer, Discord Bot developer & Minecraft Server Development.`
 
 ## Skills 
 ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000)
