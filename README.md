@@ -1,10 +1,11 @@
-<div align="center">
+<div align="left">
 
-<h1>nwels</h1>
-## skills
+<h1>nwel's profile</h1>
+<img src="https://komarev.com/ghpvc/?username=nwels&color=74A12E&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" /> 
 
-<div align="center">
+<div align="left">
 
+## Skills 
 ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000)
