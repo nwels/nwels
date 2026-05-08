@@ -1,14 +1,20 @@
 <div align="center">
 
-# nwels
+<h1>nwels</h1>
 
-![](https://komarev.com/ghpvc/?username=nwels&color=111111&style=flat)
+<p><em>Modern frontend design with quiet sophistication and Apple-inspired clarity.</em></p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=nwels&color=111111&style=flat" alt="Profile views" width="420" />
+</p>
 
 </div>
 
 ---
 
 ## about me
+
+> Creating polished, minimal interface experiences that feel light, thoughtful, and premium.
 
 ```yaml
 specialized_in:
@@ -40,9 +46,9 @@ currently_learning:
 
 ---
 
-## design direction
+## visual style
 
-- Light, airy presentation with subtle emphasis
-- Clean typography and calm spacing
-- A polished, modern feel inspired by Apple design language
-- Focus on clarity and premium simplicity
+- Spacious hero section with a larger profile focus
+- Subtle, calm language and premium spacing
+- Apple-inspired minimalism with gentle contrast
+- Clean presentation for a polished frontend profile
